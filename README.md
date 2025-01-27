@@ -1,3 +1,3 @@
 # Flarpy-Birb
-A Unity-built remake of Flappy Bird, where players guide a bird through endless pipe gaps, aiming for the highest score. Simple mechanics, challenging gameplay!
+A remake of Flappy Bird built in Unity, where players tap to navigate a bird through endless gaps between pipes, aiming for the highest score. It features simple mechanics and challenging gameplay!
 Flappy Bird is a simple yet addictive side-scrolling game where players control a bird that flaps its wings with each tap. The objective is to navigate through a series of pipes by pressing the space bar to keep the bird airborne. The game challenges players to achieve the highest possible score by passing through as many pipe gaps as they can without colliding. Its minimalist design, easy mechanics, and high difficulty make it both engaging and frustratingly fun.
